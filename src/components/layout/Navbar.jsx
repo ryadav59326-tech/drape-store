@@ -63,7 +63,7 @@ export default function Navbar() {
               to="/"
               className="font-display text-2xl font-bold tracking-tight text-[var(--charcoal)] absolute left-1/2 -translate-x-1/2 lg:static lg:translate-x-0"
             >
-              DRAPE
+              STRAPE
             </Link>
 
             {/* Desktop nav */}
